@@ -1,0 +1,26 @@
+{
+  "name": "is-something",
+  "version": "1.0.1",
+  "description": "is-something is very useful JavaScript package simplifying validation of input and output, handling most of possible edge cases!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "is",
+    "something",
+    "light",
+    "efficent",
+    "fast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kspalaiologos/is-something.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kspalaiologos/is-something/issues"
+  },
+  "homepage": "https://github.com/kspalaiologos/is-something",
+  "author": "Kamila Palaiologos Szewczyk  <kspalaiologos@gmail.com>",
+  "license": "GPL-2.0"
+}
